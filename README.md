@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pushkar
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Back End Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
