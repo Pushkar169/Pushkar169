@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushkar
 - 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m know bit of Front End Development (HTML , CSS)
 - 📫 How to reach me ...
 
 <!---
