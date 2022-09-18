@@ -4,6 +4,6 @@
 - 📫 How to reach me : Pushkar.bhardwaj169@gmail.com
 
 <!---
-Pushkar169/Pushkar169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pushkar/Pushkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
